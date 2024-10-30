@@ -1,3 +1,3 @@
 # barrie-route
 
-barriebus.github.io
+https://barriebus.github.io/
